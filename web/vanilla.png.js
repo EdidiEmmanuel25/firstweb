@@ -1,0 +1,1 @@
+const mynavbar= document.getElementById("mobileNav")
